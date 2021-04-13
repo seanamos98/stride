@@ -1,0 +1,22 @@
+.header {
+  height: 70px;
+  width: 100%;
+  color: #00008b;
+  background-color: #a9a9a9;
+  border-bottom: 1px solid #a9a9a9;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.header__item {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  font-size: 1.2em;
+}
+.header__item > .header__searchIcon {
+  padding-top: 5px;
+  padding-right: 30px;
+}
