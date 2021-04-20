@@ -4,7 +4,7 @@
   color: #00008b;
   background-color: #a9a9a9;
   border-bottom: 1px solid #a9a9a9;
-  position: fixed;
+  position: sticky;
   display: flex;
   align-items: center;
   padding: 0 20px;
